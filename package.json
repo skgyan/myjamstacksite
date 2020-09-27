@@ -2,7 +2,7 @@
   "name": "myjamstacksite",
   "version": "1.0.0",
   "main": "index.html",
-  "repository": "",
+  "repository": "git@github.com:skgyan/myjamstacksite.git",
   "author": "skgyan <skgyan@gmail.com>",
   "license": "MIT",
   "scripts": {
